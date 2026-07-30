@@ -1,0 +1,7 @@
+streamlit
+pandas
+Pillow
+python-dotenv
+requests
+google-cloud-vision
+google-genai
